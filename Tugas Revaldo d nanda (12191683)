@@ -1,0 +1,19 @@
+<?php
+//12191683_ Revaldo d. nanda
+
+$ikanku = array("Teri","Lele","Bawal");
+$angkringan = array ("Ikan Teri sering dijumpai di nasi angkringan dan saya konsumsi pada tanggal tua");
+$tanggal =  array(Kalo tanggal muda sering Kuliner Lele,Bawal, dan Tuna);
+	echo $converted_string = implode(".",$ikanku):
+	echo "br />"
+	echo $converted_string = implode(".",$ikanku):
+	echo "br />";
+	echo $converted_string = implode(".",$ikanku):
+	echo "br />";
+?>
+
+<?php
+$data = "27-03-2017"
+echo data ("d-a-y", strtotime ($data))
+?>
+
